@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="author" content="admin" />
+	<title>Services</title>
+     <style type="text/css">
+A:link { COLOR: #336699; font-size: 12px; TEXT-DECORATION: none;  font-weight: normal }
+</style>
+
+
+</head>
+
+<body>
+
+<a href="IT services.php" target="frame">IT Services</a><br />
+<a href="agile.html" target="frame">Agile</a><br />
+<a href="business process management.html" target="frame">Business Process Management</a>  <br />
+<a href="business technology consulting.html" target="frame">Business Technology Consulting</a><br />
+<a href="business intelligence and analytics.html" target="frame">Business Intelligence &amp; Analytics</a> <br />
+<a href="cloud computing.html" target="frame">Cloud Computing</a><br />
+<a href="Clinical Trial Resources.html" target="frame">Clinical Trial Resources</a> <br />
+<a href="Enterprise Application services.html" target="frame">Enterprise Application Services</a><br />
+<a href="infrastructuremanagement.html" target="frame">Infrastructure Management &amp; Security</a><br />
+<a href="product engineering.html" target="frame">Product Engineering</a><br />
+<a href="software product engineering.html" target="frame">Software Product Engineering</a><br />
+<a href="web technologies.html" target="frame">Web Technologies</a>
+
+</body>
+</html>

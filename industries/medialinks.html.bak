@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+	<meta name="author" content="admin" />
+	<title>Industries</title>
+     <style type="text/css">
+A:link { COLOR: #336699; font-size: 12px; TEXT-DECORATION: none;  font-weight: normal }
+</style>
+
+
+</head>
+
+<body>
+
+<tbody><tr>
+<td valign="top" style="padding-left: 20px;">
+<a href="Automobile.php" target="frame">Automobile</a><br />
+<a href="industries/Banking.php" target="frame">Banking</a><br />
+<a href="consumer packed goods.php" target="frame">Consumer Packaged Goods</a><br />
+Insurance<br />
+Media<br />
+<a href="manufacturing.php" target="frame">Manufacturing</a><br />
+<a href="retail.php" target="frame">Retail</a><br />
+<a href="life sciences.php" target="frame">Life Sciences</a><br />
+<a href="travel transportation.php" target="frame">Travel, Transportation &amp; Hospitality</a><br />
+</td></tr></tbody>
+</p>
+
+
+</body>
+</html>

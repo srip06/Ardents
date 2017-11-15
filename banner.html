@@ -1,0 +1,75 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ardent Solutions </title>
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="iecss.css" />
+<![endif]-->
+<SCRIPT language=JavaScript src="javascript.js"></SCRIPT>
+<script type="text/javascript">
+var step=1
+var whichimage=1
+function slideit(){
+if (!document.images)
+return
+document.images.slide.src=eval("image"+step+".src")
+whichimage=step
+if (step<3)
+step++
+else
+step=1
+setTimeout("slideit()",1800)
+}
+slideit()
+function slidelink(){
+if (whichimage==1)
+window.location="home.php"
+else if (whichimage==2)
+window.location="home.php"
+else if (whichimage==3)
+window.location="home.php"
+}
+</script>
+
+<script type="text/javascript">
+//preload images
+var image1=new Image()
+image1.src="images/5page-img.jpg"
+var image2=new Image()
+image2.src="images/4page-img.jpg"
+var image3=new Image()
+image3.src="images/3page-img.jpg"
+
+</script>
+</head>
+<body>
+<table border=0 width="100%">
+<tr>
+<td><a href="javascript:slidelink()">
+<img src="" name="slide" border="0" width="100%" height="250" />
+</a></td><script type="text/javascript">
+var step=1
+var whichimage=1
+function slideit(){
+if (!document.images)
+return
+document.images.slide.src=eval("image"+step+".src")
+whichimage=step
+if (step<3)
+step++
+else
+step=1
+setTimeout("slideit()",1800)
+}
+slideit()
+function slidelink(){
+if (whichimage==1)
+window.location="home.php"
+else if (whichimage==2)
+window.location="home.php"
+else if (whichimage==3)
+window.location="home.php"
+}
+</script>
+</body>
+</html>
